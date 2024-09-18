@@ -2,7 +2,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:toontoon/screens/home_screen.dart';
-import 'package:toontoon/services/api_services.dart';
 
 void main() {
   runApp(const MyApp());
